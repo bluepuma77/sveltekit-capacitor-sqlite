@@ -1,0 +1,5 @@
+{
+  "appId": "com.example.sveltekit_capacitor_sqlite",
+  "appName": "sveltekit-capacitor-sqlite",
+  "webDir": "build"
+}
